@@ -23,5 +23,5 @@ You can follow me on the socials, below 👇.
 <p align="center">
 	<a href="mailto:pmedo1689@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/ahmedhossam1212"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  	<a href="https://www.facebook.com/profile.php?id=100014832069579"><img src="https://img.shields.io/badge/facebook-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="Facebook"/></a>
+  	<a href="https://www.facebook.com/profile.php?id=100014832069579"><img src="https://img.shields.io/badge/facebook-%23181717.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
