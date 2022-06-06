@@ -22,7 +22,7 @@ You can follow me on the socials, below 👇.
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 	<a href="mailto:pmedo1689@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	
+	<a href="https://github.com/ahmedhossam1212"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   	<a href="https://www.facebook.com/profile.php?id=100014832069579"><img src="https://img.shields.io/badge/facebook-%23181717.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="http://Wa.me/201061917210" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
