@@ -24,5 +24,5 @@ You can follow me on the socials, below 👇.
 	<a href="mailto:ahossamm404@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   	<a href="https://www.facebook.com/profile.php?id=100014832069579"><img src="https://img.shields.io/badge/facebook-%23181717.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="http://Wa.me/201061917210" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-	<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-hossam-275b23234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-hossam-275b23234/" height="30" width="40" /></a>
+	<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-hossam-🇵🇸-275b23234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-hossam-275b23234/" height="30" width="40" /></a>
 </p>
