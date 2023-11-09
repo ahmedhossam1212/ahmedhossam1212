@@ -13,7 +13,8 @@
 
 <br><br>
 Hello Everyone 👋, My name is Ahmed. I'm Computer Science Student👨‍💻
-I’m interested in software engineering and technology. Presently, I'm developing apps with Flutter.
+I’m interested in software engineering and technology. Presently, I'm developing apps with Flutter. 
+I have been working as a freelancer developer for 3 years. I was working for a company that taught programming for a year. Owner of a financial management system
 You can follow me on the socials, below 👇.
 
 <br><br>
