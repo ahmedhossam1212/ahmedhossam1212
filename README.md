@@ -12,7 +12,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br><br>
-Welcome, I am Ahmed, a Flutter programmer. I have three years of practical experience with Flutter. I used to work as a trainer for a year, and now I work as an application developer in a company specializing in real estate.
+Hello, I'm Ahmed, Flutter programmer. I have three years of practical experience with Flutter. I was a trainer for a year, and now I work as an app developer for a real estate company.
 <br><br>
 
 
