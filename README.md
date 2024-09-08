@@ -12,10 +12,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br><br>
-Hello Everyone 👋, My name is Ahmed. I'm Computer Science Student👨‍💻
-I’m interested in software engineering and technology. Presently, I'm developing apps with Flutter. 
-I have been working as a freelancer developer for 3 years. I was working for a company that taught programming for a year. Owner of a financial management system
-You can follow me on the socials, below 👇.
 
 <br><br>
 
