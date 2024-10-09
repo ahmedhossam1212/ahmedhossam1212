@@ -15,7 +15,7 @@
 Hello, I'm Ahmed, Flutter programmer. I have three years of practical experience with Flutter. I was a trainer for a year, and now I work as an app developer for a real estate company.
 <br><br>
 
-  # 📊 GitHub Stats:
+  # 📊 Ahmed's Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedhossam1212&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedhossam1212&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhossam1212&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
