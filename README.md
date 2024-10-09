@@ -9,7 +9,7 @@
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 20px/>
 
 <br><br>
 Hello, I'm Ahmed, Flutter programmer. I have three years of practical experience with Flutter. I was a trainer for a year, and now I work as an app developer for a real estate company.
@@ -21,9 +21,7 @@ Hello, I'm Ahmed, Flutter programmer. I have three years of practical experience
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhossam1212&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmedhossam1212&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <p align="center">
