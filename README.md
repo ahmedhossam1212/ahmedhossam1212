@@ -15,8 +15,17 @@
 Hello, I'm Ahmed, Flutter programmer. I have three years of practical experience with Flutter. I was a trainer for a year, and now I work as an app developer for a real estate company.
 <br><br>
 
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmedhossam1212&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedhossam1212&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhossam1212&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+---
+[![](https://visitcount.itsvg.in/api?id=ahmedhossam1212&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 <p align="center">
 	<a href="mailto:ahossamm404@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   	<a href="https://www.facebook.com/profile.php?id=100014832069579"><img src="https://img.shields.io/badge/facebook-%23181717.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
