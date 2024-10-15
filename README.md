@@ -39,6 +39,6 @@ Souq Istanbul is e-commerce application that allows the user to move between man
 
 
 ## Contacts
-[<img src="https://img.icons8.com/?size=100&id=38158&format=png" height="30">]()
+          [<img src="https://img.icons8.com/?size=100&id=38158&format=png" height="30">]()
   
 
