@@ -30,7 +30,7 @@ Souq Istanbul is e-commerce application that allows the user to move between man
 
 ---
 
-  # 📊 Ahmed's Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=ahmedhossam1212&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedhossam1212&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhossam1212&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
