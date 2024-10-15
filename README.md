@@ -16,6 +16,14 @@ Hello, I'm Ahmed, Flutter programmer. I have three years of practical experience
 <br><br>
 
 ---
+# Samples from my projects 
+ ## Sirtz 
+ SIRTZ is a specialized app designed to assist students in preparing for exams such as the ALCPT (American Language Course Placement Test). Unlike traditional course-based learning platforms, SIRTZ focuses exclusively on quizzes to provide an interactive and effective preparation experience.
+
+[<img src="resources/img/appstore-badge.png" height="50">](https://apps.apple.com/eg/app/sirtz/id6503646945)
+
+
+---
 
   # 📊 Ahmed's Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedhossam1212&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
