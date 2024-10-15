@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SoftWare+Engineer;Flutter+Developer&center=true&width=500&height=50"></a>
 <!-- </p>
@@ -14,7 +14,7 @@
 
 
 <br><br>
-Hello, I'm Ahmed, Flutter programmer. I have three years of practical experience with Flutter. I was a trainer for a year, and now I work as an app developer for a real estate company.
+Hello,I'm Ahmed Hossam, Flutter programmer. I have three years of practical experience with Flutter. I was a trainer for a year, and now I work as an app developer for a real estate company.
 <br><br>
 
 ---
