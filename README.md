@@ -43,7 +43,7 @@ Souq Istanbul is e-commerce application that allows the user to move between man
 
 
 
-* ✉️  You can contact me at [ahossamm404@gmail.com](mailto:ahossamm404@gmail.com)
+
 
 
 
