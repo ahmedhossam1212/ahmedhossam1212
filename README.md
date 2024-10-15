@@ -40,7 +40,7 @@ Souq Istanbul is e-commerce application that allows the user to move between man
 
 ## Contacts
 <p align="center">
-	<a href="mailto:ahossamm404@gmail.com"><img img src="https://economictimes.indiatimes.com/thumb/msid-63994786,width-1200,height-900,resizemode-4,imgsize-35146/gmail-gets-a-makeover-heres-how-you-can-make-the-most-of-its-features.jpg?from=mdr" alt="Gmail"/></a>
+	<a href="mailto:ahossamm404@gmail.com"><img img src="https://img.icons8.com/?size=96&id=P7UIlhbpWzZm&format=png" alt="Gmail"/></a>
   	<a href="https://www.facebook.com/profile.php?id=100014832069579"><img src="https://img.shields.io/badge/facebook-%23181717.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="http://Wa.me/201061917210" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 	<a href="https://linkedin.com/in/ahmed-hossam-275b23234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hossam-275b23234" height="30" width="40" /></a>
