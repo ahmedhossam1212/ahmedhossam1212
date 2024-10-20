@@ -65,12 +65,7 @@ Souq Istanbul is e-commerce application that allows the user to move between man
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+---
 
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ahmedhossam1212/ahmedhossam1212/output/snake.svg" alt="Snake animation" />
-
-###
