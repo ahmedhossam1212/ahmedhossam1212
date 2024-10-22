@@ -1,4 +1,4 @@
-<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Welcome <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlvcjJtbzRpbDA3b3g0MWVoN2dzNjQ2ajV6a2trMjN5aXV1cmZiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buctjKD8g5r4544/giphy.webp" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SoftWare+Engineer;Flutter+Developer&center=true&width=500&height=50"></a>
 <!-- </p>
