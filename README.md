@@ -14,7 +14,12 @@
 
 
 <br><br>
-Hello,I'm Ahmed Hossam, Flutter developer. I have two years of practical experience with Flutter. I was a trainer for a year, and now I work as an app developer for a real estate .
+Hello and welcome to my GitHub! 👋
+
+I'm Ahmed, a passionate Flutter developer with two years of experience building real estate applications. Here you'll find projects, code samples, and ideas I've worked on in the real estate tech space using Flutter.
+Feel free to explore my repositories, contribute, or reach out if you'd like to connect or collaborate!
+
+Thank you for visiting!
 <br><br>
 
 ---
