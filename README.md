@@ -14,12 +14,13 @@
 
 
 <br><br>
-Hello and welcome to my GitHub! 👋
+Welcome to GitHub! 👋
 
-I'm Ahmed, a passionate Flutter developer with two years of experience building real estate applications. Here you'll find projects, code samples, and ideas I've worked on in the real estate tech space using Flutter.
-Feel free to explore my repositories, contribute, or reach out if you'd like to connect or collaborate!
+I'm Ahmed, a passionate Flutter developer with two years of experience building apps. I enjoy transforming ideas into user-friendly mobile experiences, and I'm always looking to learn and collaborate in the tech community.
 
-Thank you for visiting!
+Please feel free to reach out if you'd like to chat or work together!
+
+Thanks for stopping by!
 <br><br>
 
 ---
