@@ -14,7 +14,6 @@
 
 
 <br><br>
-Welcome to GitHub! 👋
 
 I'm Ahmed, a passionate Flutter developer with two years of experience building apps. I enjoy transforming ideas into user-friendly mobile experiences, and I'm always looking to learn and collaborate in the tech community.
 
