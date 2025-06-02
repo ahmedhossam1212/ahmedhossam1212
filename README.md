@@ -14,7 +14,7 @@
 
 
 <br><br>
-Hello,I'm Ahmed Hossam, Flutter developer. I have two years of practical experience with Flutter. I was a trainer for a year, and now I work as an app developer for a real estate company.
+Hello,I'm Ahmed Hossam, Flutter developer. I have two years of practical experience with Flutter. I was a trainer for a year, and now I work as an app developer for a real estate .
 <br><br>
 
 ---
