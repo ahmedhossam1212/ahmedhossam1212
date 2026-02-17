@@ -49,6 +49,11 @@ and leveraging in-app marketing campaigns, while customers enjoy easy browsing a
 
 ---
 
-<a href="http://www.github.com/ahmedhossam1212"><img src="https://github-readme-stats.vercel.app/api?username=ahmedhossam1212&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="ahmedhossam1212's GitHub stats" />
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedhossam1212&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhossam1212&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmedhossam1212&show_icons=true&count_private=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=ahmedhossam1212&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhossam1212&layout=compact&hide_border=true" />
+</p>
