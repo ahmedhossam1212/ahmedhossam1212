@@ -29,7 +29,7 @@ Thanks for stopping by!
  platforms, SIRTZ focuses exclusively on quizzes to provide an interactive and effective preparation experience.
 
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="100">](https://apps.apple.com/eg/app/sirtz/id6503646945)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="30">](https://play.google.com/store/apps/details?id=com.aboTaleb.sirtz&pcampaignid=web_share)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="45">](https://play.google.com/store/apps/details?id=com.aboTaleb.sirtz&pcampaignid=web_share)
 
 
   ### Papineau Locker 
