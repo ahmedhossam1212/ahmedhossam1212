@@ -28,7 +28,7 @@ Thanks for stopping by!
  SIRTZ is a specialized app designed to assist students in preparing for exams such as the ALCPT (American Language Course Placement Test). Unlike traditional course-based learning 
  platforms, SIRTZ focuses exclusively on quizzes to provide an interactive and effective preparation experience.
 
-[<img src="https://w7.pngwing.com/pngs/314/368/png-transparent-itunes-app-store-apple-logo-apple-text-rectangle-logo.png" height="100">](https://apps.apple.com/eg/app/sirtz/id6503646945)
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="100">](https://apps.apple.com/eg/app/sirtz/id6503646945)
  [<img src="https://storage.googleapis.com/pe-portal-consumer-prod-wagtail-static/images/googleplay-badge-01-getit.width-1440.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wagtail%40pe-portal-consumer-prod.iam.gserviceaccount.com%2F20260217%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260217T140218Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6282bc4f15987e4b3ead983b3a6ad1146d660dad58e9c9e6d51aa3383e7cc6524398f220eccc4ef6b68b1a375e12ea0a40e499e9d74e67ec9626324d90eb3c56b008a36ab37afb4e08a86572536adf127ff201abb510f9e26f9429be87355c991313dfc1eac02ab85ea9fa134f424acb8b836d1b9f5f95ec683e3848e96edae5bb500e804791832ab7170e206eaa5e208b26b38cdf0d4b81ffa9073f0ee09bf61e36a419cfacc0e3033c173aea00f6eae0a0ece1b61297ff1c5f1297fac60ba4f91ac37ee4186ca0ad01fac73f503870d51e0a9c7b88ef363fd5726134784f7d31f3dfa5f2b5431d365de807fd3a9ec984900d58d2975ac4703410b4f99725fe" height="100">](https://play.google.com/store/apps/details?id=com.aboTaleb.sirtz&pcampaignid=web_share)
 
 
