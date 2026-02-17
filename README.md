@@ -28,8 +28,8 @@ Thanks for stopping by!
  SIRTZ is a specialized app designed to assist students in preparing for exams such as the ALCPT (American Language Course Placement Test). Unlike traditional course-based learning 
  platforms, SIRTZ focuses exclusively on quizzes to provide an interactive and effective preparation experience.
 
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="90">](https://apps.apple.com/eg/app/sirtz/id6503646945)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="100">](https://play.google.com/store/apps/details?id=com.aboTaleb.sirtz&pcampaignid=web_share)
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)" height="70">](https://apps.apple.com/eg/app/sirtz/id6503646945)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="70">](https://play.google.com/store/apps/details?id=com.aboTaleb.sirtz&pcampaignid=web_share)
 
 
   ### Papineau Locker 
